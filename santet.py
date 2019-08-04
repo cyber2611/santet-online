@@ -8,7 +8,7 @@ def asu(s):
 		time.sleep(0.1)
 		
 def metu():
-	asu('\n\033[1;93mTerimakasih telah menggunakan tools ini,\nini hanya tools mainan doang yahh hehee\033[1;97m')
+	asu('\n\033[1;93mTerimakasih telah menggunakan tools ini,\nini hanya tools prank doang yahh hehee\033[1;97m')
 	os.sys.exit()
 	
 njer = "\n\n\033[1;97m=========================================\n==>        \033[1;91mTOOLS SANTET ONLINE        \033[1;97m<== \n=========================================\n"
