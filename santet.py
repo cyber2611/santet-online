@@ -49,28 +49,28 @@ def santet():
 					print 40*"\033[1;97m="
 					time.sleep(2)
 					asu('\033[1;97mTunggu sebentar pakk lagi proses hehee !!')
+					time.sleep(5)
+					print('\n\033[1;92m██████ \033[1;91m10%')
 					time.sleep(3)
-					print'\n\033[1;92m[✓] Berhasil \n\033[1;91mTersantet by \033[1;97m:' ,by
-					time.sleep(1)
-					print'\033[1;92m[✓] Berhasil \n\033[1;91mTersantet by \033[1;97m:' ,by
-					time.sleep(1)
-					print'\033[1;92m[✓] Berhasil \n\033[1;91mTersantet by \033[1;97m:' ,by
-					time.sleep(1)
-					print'\033[1;92m[✓] Berhasil \n\033[1;91mTersantet by \033[1;97m:' ,by
-					time.sleep(1)
-					print'\033[1;92m[✓] Berhasil \n\033[1;91mTersantet by \033[1;97m:' ,by
-					time.sleep(1)
-					print'\033[1;92m[✓] Berhasil \n\033[1;91mTersantet by \033[1;97m:' ,by
-					time.sleep(1)
-					print'\033[1;92m[✓] Berhasil \n\033[1;91mTersantet by \033[1;97m:' ,by
-					time.sleep(1)
-					print'\033[1;92m[✓] Berhasil \n\033[1;91mTersantet by \033[1;97m:' ,by
-					time.sleep(1)
-					print'\033[1;92m[✓] Berhasil \n\033[1;91mTersantet by \033[1;97m:' ,by
-					time.sleep(1)
-					print'\033[1;92m[✓] Berhasil \n\033[1;91mTersantet by \033[1;97m:' ,by
+					print('\n\033[1;92m███████ \033[1;91m20%')
 					time.sleep(3)
-					print'\n\033[1;97mSudah selesai pakk korban sudah disantet hehee!'
+					print('\n\033[1;92m████████ \033[1;91m30%')
+					time.sleep(3)
+					print('\n\033[1;92m█████████ \033[1;91m40%')
+					time.sleep(3)
+					print('\n\033[1;92m██████████ \033[1;91m50%')
+					time.sleep(3)
+					print('\n\033[1;92m███████████ \033[1;91m60%')
+					time.sleep(3)
+					print('\n\033[1;92m████████████ \033[1;91m70%')
+					time.sleep(3)
+					print('\n\033[1;92m█████████████ \033[1;91m80%')
+					time.sleep(3)
+					print('\n\033[1;92m██████████████ \033[1;91m90%')
+					time.sleep(3)
+					print('\n\033[1;92m███████████████ \033[1;91m100%')
+					time.sleep(5)
+					print'\n\033[1;95mBerhasil Tersantet By \033[1;97m:' ,by, '\n'
 					pilih()
 				
 
