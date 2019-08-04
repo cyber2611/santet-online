@@ -75,7 +75,7 @@ def santet():
 				
 
 def pilih():
-	ya = raw_input('Ingin santet ulang? (y/t) : ')
+	ya = raw_input('Ingin santet lagi? (y/t) : ')
 	if ya =="":
 		print'\033[1;91mIsi yang benar!\033[1;97m'
 		pilih()
