@@ -85,7 +85,7 @@ def pilih():
 		metu()
 	elif ya =="Y":
 		santet()
-	elif ya =="t":
+	elif ya =="T":
 		metu()
 	else:
 		print'\033[1;91mIsi yang benar!'
